@@ -1,6 +1,6 @@
 # Sincronizar Stock
 
-Este proyecto automatiza la sincronización de stock entre una tienda PrestaShop y varios proveedores utilizando FTP o URLs para descargar archivos Excel. Esto permite gestionar de manera eficiente el stock y la disponibilidad de productos en la tienda.
+Este proyecto automatiza la sincronización de stock entre una tienda PrestaShop y varios proveedores utilizando FTP o URLs para descargar archivos Excel. La solución gestiona eficientemente el stock y la disponibilidad de productos en la tienda, conectándose a dos bases de datos críticas: una para configuraciones de proveedores y otra para la gestión operativa dentro de PrestaShop. Esto asegura una actualización precisa y en tiempo real de la información de productos.
 
 ## Características
 
