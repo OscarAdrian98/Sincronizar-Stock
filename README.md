@@ -29,4 +29,4 @@ Este proyecto automatiza la sincronización de stock entre una tienda PrestaShop
 
 1. Clona este repositorio:
    ```bash
-   git clone [URL_DEL_REPOSITORIO](https://github.com/OscarAdrian98/Sincronizar-Stock)
+   https://github.com/OscarAdrian98/Sincronizar-Stock
